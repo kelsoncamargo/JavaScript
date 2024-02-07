@@ -7,7 +7,7 @@ lexico1()
 lexico2()
 
 function log(text = 'Node'){
-  console.log(text)
+  console.log(text)  
 }
 
 log()
